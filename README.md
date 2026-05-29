@@ -42,23 +42,6 @@ Run the project:
 streamlit run main.py
 ```
 
-## Screenshots
-
-### Home Page
-
-![Home](Screenshot 2026-05-29 210515.png)
-
-### Gesture Detection
-
-![Detection](screenshots/detection.png)
-
-### Text Output
-
-![Output](screenshots/speech_output.png)
-
-### History
-
-![History](screenshots/history.png)
 
 ## Future Enhancements
 
