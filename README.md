@@ -46,7 +46,7 @@ streamlit run main.py
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](Screenshot 2026-05-29 210515.png)
 
 ### Gesture Detection
 
