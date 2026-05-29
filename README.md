@@ -24,11 +24,6 @@ A real-time Sign Language Recognition and Speech Synthesis application built usi
 
 ## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/Sign_language_Convertor.git
-```
 
 Install dependencies:
 
